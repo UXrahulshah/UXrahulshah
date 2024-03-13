@@ -1,12 +1,7 @@
-![logo](https://github.com/UXrahulshah/UXrahulshah/blob/main/Frame%2052415.png)
 <h1 align="center">Hi 👋, I'm Rahul Shah</h1>
 <h3 align="center">A passionate UX Designer from India</h3>
-
-<img align="right" alt="coding" width="300" src="![image](https://github.com/UXrahulshah/UXrahulshah/assets/163244966/36d603d9-2f96-4a94-aa35-74e462d4a2ea)
-">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uxrahulshah&label=Profile%20views&color=0e75b6&style=flat" alt="uxrahulshah" /> </p>
-
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 - 🔭 I’m currently working on **Ios & Android Apps**
 
 - 🌱 I’m currently learning **Sketch and Prototyping tools**
@@ -35,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uxrahulshah&show_icons=true&locale=en&layout=compact" alt="uxrahulshah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uxrahulshah&show_icons=true&locale=en" alt="uxrahulshah" /></p>
+<img align="right" alt="coding" width="4000" src="https://github.com/UXrahulshah/UXrahulshah/blob/main/Frame%2052415.png">
