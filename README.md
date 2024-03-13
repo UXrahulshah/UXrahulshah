@@ -2,6 +2,7 @@
 <h3 align="center">A passionate UX Designer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uxrahulshah&label=Profile%20views&color=0e75b6&style=flat" alt="uxrahulshah" /> </p>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
+
 - 🔭 I’m currently working on **Ios & Android Apps**
 
 - 🌱 I’m currently learning **Sketch and Prototyping tools**
@@ -16,18 +17,22 @@
 
 - ⚡ Fun fact **Memes>**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐Socials:</h3>
+<hr> 
 <p align="left">
 <a href="https://twitter.com/ux_rahulshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ux_rahulshah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ rahulshah1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ rahulshah1801" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul1309_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul1309_" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/rahulshah69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/rahulshah69" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻Tech Stack:</h3>
+<hr> 
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
+<h3 align="left">📊GitHub Stats:</h3>
+<hr> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uxrahulshah&show_icons=true&locale=en&layout=compact" alt="uxrahulshah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uxrahulshah&show_icons=true&locale=en" alt="uxrahulshah" /></p>
+<h3 align="left">💳Business card:</h3>
+<hr> 
 <img align="right" alt="coding" width="4000" src="https://github.com/UXrahulshah/UXrahulshah/blob/main/Frame%2052415.png">
