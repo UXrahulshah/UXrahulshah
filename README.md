@@ -33,6 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uxrahulshah&show_icons=true&locale=en&layout=compact" alt="uxrahulshah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uxrahulshah&show_icons=true&locale=en" alt="uxrahulshah" /></p>
-<h3 align="left">💳Business card:</h3>
+<h3 align="left">💳Card:</h3>
 <hr> 
 <img align="right" alt="coding" width="4000" src="https://github.com/UXrahulshah/UXrahulshah/blob/main/Frame%2052415.png">
